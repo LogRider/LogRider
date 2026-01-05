@@ -1,16 +1,34 @@
-## Hi there 👋
+#  Jakub Wiśniewski
 
-<!--
-**DuckTheHack/DuckTheHack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior SOC Analyst / Cybersecurity Support  
 
-Here are some ideas to get you started:
+##  About
+Aspiring SOC Analyst with hands-on experience in:
+- monitoring IT infrastructure
+- log analysis and incident response
+- Linux and Windows environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently preparing for:
+- (ISC)² Certified in Cybersecurity (CC)
+- CompTIA Security+
+
+##  Areas of Interest
+- SOC Operations (Tier 1)
+- Log analysis & SIEM
+- Incident Response
+- Threat Detection
+
+##  Tools & Technologies
+- Linux (Ubuntu, Kali)
+- Windows
+- Splunk (basic log analysis)
+- Wireshark
+- Nginx, UFW, iptables
+
+##  Labs
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+
+##  Contact
+- LinkedIn: https://www.linkedin.com/in/napiszdomnie/
