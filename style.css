@@ -1,5 +1,8 @@
 html *
 {
     font-style: normal;
-    text-align:center;
+}
+h1
+{
+  text-align:center;
 }
