@@ -1,3 +1,24 @@
-* {margin: 0; padding: 0}
-body {background: #000;}
-canvas {display: block;}
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: black;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  positionL relative;
+}
+.content {
+  position: relative;
+  z-index: 1;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
